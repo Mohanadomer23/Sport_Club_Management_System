@@ -26,5 +26,5 @@ The **Sports Management System** is a comprehensive database solution designed t
 - Define and manage benefits for different membership types.
 
 ## Technologies Used
-- **MySQL
-- **Java Swing
+- MySQL
+- Java Swing
