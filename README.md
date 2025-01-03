@@ -21,20 +21,10 @@ The **Sports Management System** is a comprehensive database solution designed t
 - Maintain records of facilities, locations, and maintenance schedules.
 - Track team usage of facilities.
 
-### Sponsorship and Expense Tracking
-- Manage sponsorships and funds provided by sponsors.
-- Record and categorize team-related expenses.
-
-### Task and Attendance Management
-- Assign tasks to managers with deadlines and status updates.
-- Track attendance of members at events and training sessions.
 
 ### Membership Benefits
 - Define and manage benefits for different membership types.
 
-## Technical Specifications
-- **Database System**: MySQL
-- **Number of Tables**: 20
-- **Number of Views**: 20 (one for each table)
-- **Data Integrity**: Enforced through primary and foreign keys to maintain relational consistency.
-
+## Technologies Used
+- **MySQL
+- **Java Swing
